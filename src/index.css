@@ -1,3 +1,30 @@
+:root{
+  --navy:        #102B66;
+  --navy-soft:   #23407c;
+  --saffron:     #C97E3B;   /* muted, editorial saffron — never saturated */
+  --green:       #3E6E52;   /* muted India green */
+  --white:       #FFFFFF;
+  --paper:       #F2ECDD;   /* light textured paper beige */
+  --paper-deep:  #E9E0CB;   /* slightly deeper paper for strips/cards */
+  --grey-light:  #F6F5F2;   /* very light grey */
+  --ink:         #201C14;   /* soft near-black for text */
+  --ink-muted:   #6B6456;
+
+  --font-display: 'Fraunces', Georgia, serif;
+  --font-body:    'Work Sans', -apple-system, sans-serif;
+
+  --radius-card: 3px;
+  --shadow-soft: 0 10px 30px -12px rgba(16,43,102,0.18), 0 2px 6px rgba(16,43,102,0.08);
+  --shadow-lift: 0 20px 40px -16px rgba(16,43,102,0.28), 0 4px 10px rgba(16,43,102,0.10);
+
+  --max-width: 1160px;
+}
+
+/* ==========================================================================
+   2. RESET & BASE
+   ========================================================================== */
+*, *::before, *::after{ box-sizing: border-box; }
+html{ scroll-behavior: smooth; }
 @media (prefers-reduced-motion: reduce){
   html{ scroll-behavior: auto; }
   *, *::before, *::after{ animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; }
