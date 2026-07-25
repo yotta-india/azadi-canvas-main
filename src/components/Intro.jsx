@@ -2,7 +2,7 @@ import React from 'react';
 
 const Intro = () => {
   return (
-    <section className="summit-strip torn-top" id="summit" style="background:var(--navy);">
+    <section className="summit-strip torn-top" id="summit" style={{ background: 'var(--navy)' }}>
   <div className="wrap summit-inner">
     <div>
       <h3>COMMUNITY SUMMIT</h3>
