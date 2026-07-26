@@ -102,7 +102,7 @@ body{
    4. LOGOS
    Real logo assets, embedded as data URIs so the file stays single-file.
    ========================================================================== */
-.nav-logo-img{ height: 38px; width: auto; }
+.nav-logo-img{ height: 38px; width: auto; border-radius: 6px; }
 .yotta-badge{
   display:inline-flex; align-items:center; justify-content:center;
   width: 26px; height: 26px;
@@ -131,7 +131,24 @@ body{
   display:flex; align-items:center; justify-content:space-between;
   height: 72px;
 }
-.nav-brand{ display:flex; align-items:center; }
+.nav-brand{ display:flex; align-items:center; gap: 12px; }
+.nav-brand-text { display: flex; flex-direction: column; }
+.yotta-presents {
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.22em;
+  color: var(--navy);
+  line-height: 1.2;
+}
+.azadi-canvas-text {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0.15em;
+  color: var(--navy-soft);
+  line-height: 1.2;
+}
 .nav-links{
   display:flex; align-items:center; gap: 34px;
   list-style:none; margin:0; padding:0;
