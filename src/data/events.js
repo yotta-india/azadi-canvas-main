@@ -119,7 +119,7 @@ export const EVENTS = [
     featured: false,
     description: "Two sides, one motion — an on-the-spot debate across two rounds on the questions that matter.",
     registerLabel: "Register Now",
-    registerLink: "#",
+    registerLink: "https://debate-competition-26-azadi-canvas.vercel.app/",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Format", value: "On-the-spot Debate" },
@@ -190,9 +190,9 @@ export const EVENTS = [
       { label: "Open To", value: "Everyone" }
     ],
     timeline: [
-      { label: "Registration & Submission", value: "1 August – 23 August" },
+      { label: "Registration & Submission", value: "To Be Announced" },
       { label: "Session", value: "To Be Announced" },
-      { label: "Result", value: "First week of September" }
+      { label: "Result", value: "To Be Announced" }
     ],
     reward: "Certificate for all participants."
   },
@@ -231,7 +231,7 @@ export const EVENTS = [
 export const MILESTONES = [
   { date: "20 July", title: "Chess registration opens", detail: "Checkmate Showdown'26 registration window begins." },
   { date: "25 July", title: "General registration opens", detail: "Registration opens for Essay Writing, Drawing, Digital Art, Poster Making, Photography, Poetry, Debate and Speech." },
-  { date: "1 August", title: "Short Film opens", detail: "Registration and submission window begins." },
+
   { date: "6 August", title: "Essay Writing topic revealed", detail: "This year's essay prompt is released." },
   { date: "7 August", title: "Drawing topic revealed", detail: "This year's drawing topic is released." },
   { date: "8 – 9 August", title: "Essay & Drawing submissions", detail: "Submission window for both events." },
@@ -244,11 +244,11 @@ export const MILESTONES = [
   { date: "21 August", title: "Speech — Orientation Session", detail: "Guidance session ahead of the speaking round." },
   { date: "22 August", title: "Speech — Speaking Round", detail: "Participants deliver their speeches." },
   { date: "22 – 23 August", title: "Digital Art & Poster Making submissions", detail: "Submission window for both events." },
-  { date: "23 August", title: "Tournament day & submissions close", detail: "Checkmate Showdown'26 is played; Photography, Poetry and Short Film registration and submissions close." },
+  { date: "23 August", title: "Tournament day & submissions close", detail: "Checkmate Showdown'26 is played; Photography and Poetry registration and submissions close." },
   { date: "29 August", title: "Photography & Poetry results", detail: "Winners announced for both events." },
   { date: "30 August", title: "Poster Making & Speech results", detail: "Winners announced for both events." },
-  { date: "First week of September", title: "Short Film results", detail: "Winners announced." },
-  { date: "To Be Announced", title: "Quiz & Start-up Pitch", detail: "Dates and details to follow.", tba: true }
+
+  { date: "To Be Announced", title: "Quiz, Start-up Pitch & Short Film", detail: "Dates and details to follow.", tba: true }
 ];
 
 export const PARTNERS = new Array(6).fill(null).map(() => ({ name: "Community Name" }));
