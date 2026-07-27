@@ -8,7 +8,7 @@ const Intro = () => {
       <h3>COMMUNITY SUMMIT</h3>
       <p>Connect with student communities across India.</p>
     </div>
-    <a href="#" className="btn btn-outline">Register your Community</a>
+    <a href="#" className="btn btn-outline" style={{ pointerEvents: 'none', opacity: 0.8 }}>Coming Soon</a>
   </div>
 </section>
   );
