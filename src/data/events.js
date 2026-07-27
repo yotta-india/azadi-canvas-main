@@ -23,7 +23,7 @@ export const EVENTS = [
     featured: true,
     description: "A themed writing prompt, revealed on the day, open to every voice with something to say about freedom and identity.",
     registerLabel: "Register Now",
-    registerLink: "#",
+    registerLink: "https://forms.gle/1r6eq9KvMR9CZHRm9",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" },
@@ -44,7 +44,7 @@ export const EVENTS = [
     featured: false,
     description: "A visual response to the same spirit of independence — open medium, one topic revealed on the day.",
     registerLabel: "Register Now",
-    registerLink: "#",
+    registerLink: "https://forms.gle/1r6eq9KvMR9CZHRm9",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" }
@@ -63,7 +63,7 @@ export const EVENTS = [
     featured: false,
     description: "Original digital artwork built around a topic revealed later in the month.",
     registerLabel: "Register Now",
-    registerLink: "#",
+    registerLink: "https://forms.gle/1r6eq9KvMR9CZHRm9",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" }
@@ -82,7 +82,7 @@ export const EVENTS = [
     featured: false,
     description: "Design a poster that carries the spirit of the month in a single frame.",
     registerLabel: "Register Now",
-    registerLink: "#",
+    registerLink: "https://forms.gle/1r6eq9KvMR9CZHRm9",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" }
