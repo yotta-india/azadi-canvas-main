@@ -23,7 +23,7 @@ export const EVENTS = [
     featured: true,
     description: "A themed writing prompt, revealed on the day, open to every voice with something to say about freedom and identity.",
     registerLabel: "Register Now",
-    registerLink: "https://forms.gle/1r6eq9KvMR9CZHRm9",
+    registerLink: "https://unstop.com/p/essay-writing-competition-azadi-canvas-2026-event-yotta-yotta-india-1726805",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" },
@@ -44,7 +44,7 @@ export const EVENTS = [
     featured: false,
     description: "A visual response to the same spirit of independence — open medium, one topic revealed on the day.",
     registerLabel: "Register Now",
-    registerLink: "https://forms.gle/1r6eq9KvMR9CZHRm9",
+    registerLink: "https://unstop.com/p/drawing-competition-azadi-yotta-india-1726814",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" }
@@ -63,7 +63,7 @@ export const EVENTS = [
     featured: false,
     description: "Original digital artwork built around a topic revealed later in the month.",
     registerLabel: "Register Now",
-    registerLink: "https://forms.gle/1r6eq9KvMR9CZHRm9",
+    registerLink: "https://unstop.com/p/digital-art-competition-azadi-canvas-2026-event-yotta-yotta-india-1726815",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" }
