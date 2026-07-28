@@ -107,7 +107,7 @@ export const EVENTS = [
       { label: "Open To", value: "Everyone" }
     ],
     timeline: [
-      { label: "Registration & Submission", value: "25 July – 23 August" },
+      { label: "Registration & Submission", value: "30 July – 23 August" },
       { label: "Session", value: "To Be Announced" },
       { label: "Result", value: "29 August" }
     ],
@@ -172,7 +172,7 @@ export const EVENTS = [
       { label: "Open To", value: "Everyone" }
     ],
     timeline: [
-      { label: "Registration & Submission", value: "25 July – 23 August" },
+      { label: "Registration & Submission", value: "30 July – 23 August" },
       { label: "Session", value: "To Be Announced" },
       { label: "Result", value: "29 August" }
     ],
