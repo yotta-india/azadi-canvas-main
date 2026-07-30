@@ -101,7 +101,7 @@ export const EVENTS = [
     featured: false,
     description: "Frame a moment that captures the feeling of Azadi — freedom, community, everyday India.",
     registerLabel: "Register Now",
-    registerLink: "https://forms.gle/gsSaRzCUfVdWjaJn6",
+    registerLink: "https://unstop.com/o/MCwNf78?lb=useubHuD&utm_medium=Share&utm_source=competitions&utm_campaign=Gersiazb65711",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" }
@@ -166,7 +166,7 @@ export const EVENTS = [
     featured: false,
     description: "Verse as a form of expression — open submissions on any Azadi-inspired theme.",
     registerLabel: "Register Now",
-    registerLink: "https://forms.gle/Ui8YzBqaVa1DNnGfA",
+    registerLink: "https://unstop.com/o/vEij9fm?lb=useubHuD&utm_medium=Share&utm_source=competitions&utm_campaign=Gersiazb65711",
     info: [
       { label: "Mode", value: "Online" },
       { label: "Open To", value: "Everyone" }
